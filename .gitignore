@@ -1,0 +1,8 @@
+node_modules/
+build/
+*.log
+.env*
+howler.md
+memory.db
+vector_store.db
+output/

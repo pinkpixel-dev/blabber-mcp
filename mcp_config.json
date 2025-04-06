@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "openai-tts": {
+      "command": "node",
+      "args": ["/path/to/blabber-mcp/build/index.js"],
+      "env": {
+        "OPENAI_API_KEY": "YOUR_OPENAI_API_KEY",
+        "AUDIO_PLAYER_COMMAND": "cvlc",
+        "DEFAULT_TTS_VOICE": "nova" 
+      },
+      "disabled": false,
+      "alwaysAllow": []
+    }
+  }
+}
