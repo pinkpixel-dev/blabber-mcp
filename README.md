@@ -4,6 +4,10 @@
 
 <span style="color: #90EE90;">An MCP server that gives your LLMs a voice using OpenAI's Text-to-Speech API!</span> 🔊
 
+<a href="https://glama.ai/mcp/servers/@pinkpixel-dev/blabber-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@pinkpixel-dev/blabber-mcp/badge" alt="Blabber-MCP MCP server" />
+</a>
+
 ---
 
 ## <span style="color: #FFD700;">✨ Features</span>
