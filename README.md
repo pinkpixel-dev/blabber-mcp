@@ -1,8 +1,10 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pinkpixel-dev-blabber-mcp-badge.png)](https://mseep.ai/app/pinkpixel-dev-blabber-mcp)
-
 # <span style="color: #FF69B4;">📢 Blabber-MCP</span> <span style="color: #ADD8E6;">🗣️</span>
 
+[![blabber-mcp MCP server](https://glama.ai/mcp/servers/pinkpixel-dev/blabber-mcp/badges/card.svg)](https://glama.ai/mcp/servers/pinkpixel-dev/blabber-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@pinkpixel-dev/blabber-mcp)](https://smithery.ai/server/@pinkpixel-dev/blabber-mcp)
+
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pinkpixel-dev-blabber-mcp-badge.png)](https://mseep.ai/app/pinkpixel-dev-blabber-mcp)
 
 <span style="color: #90EE90;">An MCP server that gives your LLMs a voice using OpenAI's Text-to-Speech API!</span> 🔊
 
